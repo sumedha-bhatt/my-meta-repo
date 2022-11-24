@@ -2,6 +2,7 @@
   "projects": {
     "initialize": "git@github.com:sumedha-bhatt/my-meta-repo.git",
     "submod": "https://github.com/sumedha-bhatt/private-submodule-1.git",
-    "private": "https://github.com/sumedha-bhatt/sumedha-private.git"
+    "private": "https://github.com/sumedha-bhatt/sumedha-private.git",
+    "public": "git@github.com:sumedha-bhatt/sumedha-public.git"
   }
 }
